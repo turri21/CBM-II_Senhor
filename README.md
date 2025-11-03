@@ -1,3 +1,7 @@
+-=(CBM-II_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & sound.
+___
 # [CBM-II](https://github.com/eriks5/CBM-II_MiSTer/) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 MiSTer FPGA core for the [Commodore CBM-II line of 8-bit computers](http://cbmsteve.ca/cbm2/index.html)
